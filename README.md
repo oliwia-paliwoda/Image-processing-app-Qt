@@ -16,7 +16,7 @@ Image processing functions that the app offers:</br>
 ♥ Scaling</br>
 ♥ Median blurring</br>
 ♥ Averaging</br>
-♥ Gaussian bluring</br>
+♥ Gaussian blurring</br>
 ♥ Sobel, Canny, Prewitt filtering</br>
 ♥ Erosion</br>
 ♥ Dilatation</br>

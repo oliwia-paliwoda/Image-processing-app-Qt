@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/Ikony">
+        <file>exit.png</file>
+        <file>save.png</file>
+        <file>open.png</file>
+        <file>tools.png</file>
+    </qresource>
+</RCC>
